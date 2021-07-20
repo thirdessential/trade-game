@@ -19,7 +19,7 @@
     "micromatch": "^4.0.2",
     "native-base": "^2.13.8",
     "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react-native": "0.62.3",
     "react-native-af-video-player": "^0.2.1",
     "react-native-carousel-control": "^2.0.1",
     "react-native-chart-kit": "^3.13.0",
